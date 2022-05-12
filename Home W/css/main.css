@@ -1,0 +1,280 @@
+/*font-family: 'Montserrat', sans-serif;*/
+
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.portfolio {
+    padding: 102px 88px;
+   
+}
+
+
+.conteiner__tabl {
+    Font size: 14px;
+Line height: 24px;
+Line height: 141%;
+Align: Left;
+Vertical align: Top;
+Fill: Solid;
+color: #595959;
+margin-bottom: 51px;
+}
+
+.portfolio__roli {
+
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+margin-bottom: 19px;
+
+}
+.portfolio__name {
+font-weight: 700;
+font-size: 45px;
+line-height: 55px;
+margin-bottom: 24px;
+color: #000000;
+}
+.portfolio__text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.portfolio__roli-containet {
+    max-width: 443px;
+    margin-bottom: 64px;
+}
+.projects {
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 8px;
+
+}
+.class="projects__li {
+
+    .links {
+
+    }
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 8px;
+    color: #000000;
+    
+    .links__div {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+        margin-bottom: 51px;
+    }
+
+    .links__lists {
+        margin-bottom: 51px;
+    }
+
+    .links__lists-filled {
+        font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+
+
+
+color: #595959;
+       
+    }
+    .work {
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 12px;
+color: #000000;
+    }
+    .work__free {
+        font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+margin-bottom: 16px;
+    }
+    .work__free-red {
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #FB6D3A;
+        margin-bottom: 11px;
+    }
+    .work__mon {
+        font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+margin-bottom: 8px;
+
+
+}
+
+.work__st {
+FFont size: 14px;
+Line height: 24px;
+Line height: 141%;
+Align: Left;
+Vertical align: Top;
+Fill: Solid;
+color: #595959;
+margin-bottom: 16px;
+}
+
+.work__mon-lor {
+    Font size: 14px;
+Line height: 24px;
+Line height: 141%;
+Align: Left;
+Vertical align: Top;
+Fill: Solid;
+color: #595959;
+margin-bottom: 16px;
+}
+
+
+    }
+.work__li {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  
+    color: #595959;
+    }
+
+    .desc {
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+margin-bottom: 11px;
+    }
+
+    .desc__red {
+        font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+margin-bottom: 11px;
+    }
+
+    .desc__new {
+        font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+margin-bottom: 8px;
+color:#A8A8A8
+
+
+
+
+    }
+
+   .desc__new-li {
+  
+   }
+
+   .desc__os {
+    margin-bottom: 20px;
+   }
+
+    .desc__new-tabl {
+        font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+
+list-style-type: circle;
+    }
+
+    .llc {
+        font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+margin-bottom: 11px;
+color: #000000;
+
+    }
+
+    .llc-red { 
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 11px;
+        color: #FB6D3A;
+
+    }
+
+    .llc__data {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        margin-bottom: 8px;
+        color: #A8A8A8;
+    }
+
+    .llc__data-filling {
+        font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+
+
+
+color: #595959;
+        margin-bottom: 43px;
+    }
+
+    .llc__li-fil {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: 595959;
+       
+        list-style-type: circle;
+    }
+    .educ {
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        margin-bottom: 12px;
+        color: #000000;
+    }
+
+    .educ__h3 {
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 11px;
+        color: #FB6D3A;
+    }
+
+    .educ__ca {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+        margin-bottom: 12px;
+        color: #000000;
+    }
+
+    .educ__ti {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        margin-bottom: 107px;
+        
+        
+        color: #A8A8A8;
+    }
