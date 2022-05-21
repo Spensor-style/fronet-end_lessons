@@ -1,0 +1,159 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+    text-align: center;
+    --mail-font:'Open Sans',sans-serif;
+    --main-title: #070707;
+    
+   
+    max-width: 1445px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 1445px;
+  margin: 0 auto;
+
+}
+
+.header__title {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 46px;
+  color: var(--main-title);
+  margin-bottom: 21px;
+}
+
+.header__title-two {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #070707;
+  margin-bottom: 78px;
+  align-items: center;
+}
+
+.header__menu-container {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  margin-bottom: 44px;
+
+}
+.header__header__menu-item {
+  width: 340px;
+  height: 411px;
+  left: 522px;
+}
+
+.header__title-fo {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: var(--main-title);
+  margin-bottom: 159px;
+  color: #828282;
+ 
+  text-align: center;
+}
+.page--wrapper{
+  
+}
+
+.header__header__menu-it{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-decoration: none;
+
+}
+.button{
+    margin-bottom: 42px;
+ 
+   width: 700;
+   size: 18px;
+   line-height: 24px;
+   align:var(--main-title);
+   Font family: Open Sans;
+
+}
+
+.header__menu-item {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+.header_menu{
+    text-decoration: none;
+}
+
+.caption__text{
+  width: 700;
+  font-size: 34px;
+  line-height: 46px;
+  font-family: var(--mail-font);
+  text-align: center;
+  margin: auto;
+}
+
+.holder{
+display: flex;
+flex-direction: column ;
+justify-content: center;
+align-items: center;
+margin: 0 0 80px 0;
+}
+
+.menu-nav{
+  display: flex;
+ 
+  justify-content: center;
+  gap: 70px;
+  margin-bottom: 44px;
+}
+
+.text__caption{
+  margin: 0 0 78px 0;
+}
+
+.box__item{
+  display: flex;
+  width: 940px;
+  justify-content: space-between;
+}
+
+
+.sectionsheet{
+  max-width: 1445px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+
+
+.text__skilp{
+  margin: 0 0 23px 0;
+}
+
+.container Skill-sektion{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0 80px 0;
+}
+.skills__box{
+  width: 700;
+  font-size: 34px;
+  line-height: 46px;
+  margin-bottom: 40px;
+  align-items: center;
+
+}
